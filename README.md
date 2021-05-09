@@ -16,7 +16,6 @@ You're sections headers will be used to reference location of destination.
 - [Technologies](#how-to-use)
 - [Dataset](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV)
 - [Research Paper](https://drive.google.com/file/d/1v1AZR_99Q4dxNaEl_fUNM-IAHo3wdsOR/view?usp=sharing)
-- [Author Info](#author-info)
 
 ---
 
@@ -36,7 +35,7 @@ We used two open source state of the art algorithms for our analysis.
 - [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top]
 
 ---
 
@@ -55,12 +54,12 @@ dataset
   |------|------|----Images/
   |------|------|----Xmls/
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
 
 ---
 
@@ -88,7 +87,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
 
 ---
 
@@ -97,4 +96,4 @@ SOFTWARE.
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
