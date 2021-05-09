@@ -32,7 +32,8 @@ leads to dramatic improvements.
 
 ## Dataset 
 
-Click [Drive](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV) to access the dataset
+Click [Drive](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV) to access the dataset.
+
 Below is the dataset structure.
 
 ```html
