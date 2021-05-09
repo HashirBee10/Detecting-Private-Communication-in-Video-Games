@@ -43,14 +43,18 @@ We used two open source state of the art algorithms for our analysis.
 
 ## How To Use
 
-#### Installation
-
-
-
-#### API Reference
-
 ```html
-    <p>dummy code</p>
+dataset
+  |
+  |----COD/               
+  |----GTA/               
+  |----Minecraft/               
+  |------|
+  |------|----Train/            
+  |------|----Test/            
+  |------|------|
+  |------|------|----Images/
+  |------|------|----Xmls/
 ```
 [Back To The Top](#read-me-template)
 
