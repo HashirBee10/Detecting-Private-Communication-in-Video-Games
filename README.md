@@ -1,9 +1,18 @@
 # Detecting-Private-Communication-in-Video-Games
 
 
-![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> In this paper, we investigate the feasibility
+of using video games and virtual environments to evade
+automated detection, namely by manipulating elements
+in the game environment to compose and share text
+with other users. This technique exploits the fact that
+text spotting in the wild is a challenging problem in
+computer vision. To test our hypothesis, we compile a
+novel dataset of text generated in popular video games
+and analyze it using state-of-the-art text spotting tools.
+Detection rates are negligible in most cases. Retraining these classifiers specifically for game environments
+leads to dramatic improvements
 
 ---
 
