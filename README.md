@@ -6,13 +6,7 @@
 of using video games and virtual environments to evade
 automated detection, namely by manipulating elements
 in the game environment to compose and share text
-with other users. This technique exploits the fact that
-text spotting in the wild is a challenging problem in
-computer vision. To test our hypothesis, we compile a
-novel dataset of text generated in popular video games
-and analyze it using state-of-the-art text spotting tools.
-Detection rates are negligible in most cases. Retraining these classifiers specifically for game environments
-leads to dramatic improvements
+with other users.
 
 ---
 
@@ -29,12 +23,19 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Evading automated detection exploits the fact that
+text spotting in the wild is a challenging problem in
+computer vision. To test our hypothesis, we compile a
+novel dataset of text generated in popular video games
+and analyze it using state-of-the-art text spotting tools.
+Detection rates are negligible in most cases. Retraining these classifiers specifically for game environments
+leads to dramatic improvements.
 
 #### Technologies
+We used two open source state of the art algorithms for our analysis.
+- [ABCNet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md)
+- [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 
-- Technology 1
-- Technology 2
 
 [Back To The Top](#read-me-template)
 
