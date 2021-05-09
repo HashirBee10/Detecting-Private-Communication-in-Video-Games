@@ -29,12 +29,6 @@ and analyze it using state-of-the-art text spotting tools.
 Detection rates are negligible in most cases. Retraining these classifiers specifically for game environments
 leads to dramatic improvements.
 
-## Technologies
-We used two open source state of the art algorithms for our analysis.
-- [ABCNet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md)
-- [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
-
----
 
 ## Dataset Structure
 
@@ -51,5 +45,12 @@ dataset
   |------|------|----Images/
   |------|------|----Xmls/
 ```
+---
+
+
+## Technologies
+We used two open source state of the art algorithms for our analysis.
+- [ABCNet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md)
+- [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 
 [Back To The Top](#Detecting-Private-Communication-in-Video-Games)
