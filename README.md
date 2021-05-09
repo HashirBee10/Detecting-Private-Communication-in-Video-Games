@@ -1,4 +1,5 @@
-# Detecting-Private-Communication-in-Video-Games
+# A First Look at Private Communications in
+Video Games using Visual Features
 
 I co-authored an amazing research publication "A First Look at Private Communications in Video Games using Visual Features" in [PETS 2021](https://petsymposium.org/2021/paperlist.php)
 > Internet privacy is threatened by expanding use of automated mass surveillance and censorship
