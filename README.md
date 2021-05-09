@@ -1,6 +1,6 @@
 # Detecting-Private-Communication-in-Video-Games
 
-
+I co-authored an amazing research publication "A First Look at Private Communications in Video Games using Visual Features" in [PETS 2021](https://github.com/aim-https://petsymposium.org/2021/paperlist.php).
 
 > In this paper, we investigate the feasibility
 of using video games and virtual environments to evade
