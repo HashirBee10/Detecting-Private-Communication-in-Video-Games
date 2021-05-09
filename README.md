@@ -35,7 +35,7 @@ We used two open source state of the art algorithms for our analysis.
 - [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 
 
-[Back To The Top]
+[Back To The Top](#Detecting-Private-Communication-in-Video-Games)
 
 ---
 
@@ -54,12 +54,12 @@ dataset
   |------|------|----Images/
   |------|------|----Xmls/
 ```
-[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
+[Back To The Top](#Detecting-Private-Communication-in-Video-Games)
 
 ---
 
 ## References
-[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
+[Back To The Top](#Detecting-Private-Communication-in-Video-Games)
 
 ---
 
@@ -87,7 +87,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
+[Back To The Top](#Detecting-Private-Communication-in-Video-Games)
 
 ---
 
@@ -96,4 +96,4 @@ SOFTWARE.
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](# Detecting-Private-Communication-in-Video-Games)
+[Back To The Top](#Detecting-Private-Communication-in-Video-Games)
