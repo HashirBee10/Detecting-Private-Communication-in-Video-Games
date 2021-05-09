@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [Technologies](#how-to-use)
 - [Dataset](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV)
-- [License](#license)
+- [Research Paper](https://drive.google.com/drive/u/0/folders/1eg9qFJoZxKDf9HgUn9Tw-jZNbhpdcJXG)
 - [Author Info](#author-info)
 
 ---
