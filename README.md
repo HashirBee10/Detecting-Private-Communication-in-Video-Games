@@ -58,4 +58,9 @@ We used two open source state of the art algorithms for our analysis.
 - [ABCNet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md)
 - [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 
+## Details
+
+Please see [Research Paper](https://drive.google.com/file/d/1v1AZR_99Q4dxNaEl_fUNM-IAHo3wdsOR/view?usp=sharing) for complete details and understanding.
+
+
 [Back To The Top](#Detecting-Private-Communication-in-Video-Games)
