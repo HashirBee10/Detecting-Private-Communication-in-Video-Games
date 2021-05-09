@@ -14,8 +14,8 @@ with other users.
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
+- [Technologies](#how-to-use)
+- [Dataset](#references)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -31,7 +31,7 @@ and analyze it using state-of-the-art text spotting tools.
 Detection rates are negligible in most cases. Retraining these classifiers specifically for game environments
 leads to dramatic improvements.
 
-#### Technologies
+## Technologies
 We used two open source state of the art algorithms for our analysis.
 - [ABCNet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md)
 - [DeepTextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
