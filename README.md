@@ -13,8 +13,8 @@ with other users.
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [Technologies](#how-to-use)
-- [Dataset](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV)
+- [Dataset](#Dataset)
+- [Technologies](#Technologies)
 - [Research Paper](https://drive.google.com/file/d/1v1AZR_99Q4dxNaEl_fUNM-IAHo3wdsOR/view?usp=sharing)
 
 ---
@@ -30,7 +30,10 @@ Detection rates are negligible in most cases. Retraining these classifiers speci
 leads to dramatic improvements.
 
 
-## Dataset Structure
+## Dataset 
+
+Click [Drive](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV) to access the dataset
+Below is the dataset structure.
 
 ```html
 dataset
